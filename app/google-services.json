@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "936206327308",
+    "firebase_url": "https://time-waste-68648-default-rtdb.firebaseio.com",
+    "project_id": "time-waste-68648",
+    "storage_bucket": "time-waste-68648.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936206327308:android:349805ac232ab4806e9829",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYJHRME4trquchjah0Qp8vlYzvkU138g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
